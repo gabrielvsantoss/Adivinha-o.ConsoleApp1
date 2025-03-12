@@ -3,9 +3,10 @@
 ![](https://i.imgur.com/WtaMOYX.gif)
 
 **Funcionalidades**
-**Gerador de numeros**: Gera um numero aleatório de 0 a 20.
-**Tipos de Dificuldade**: Permite que o usuario escolha entre facil médio e dificil.
-**Interação com o usuario**: Permite que o usuario tenha a possibilidade de acertar o numero gerado.
+
+- **Gerador de numeros**: Gera um numero aleatório de 0 a 20.
+- **Tipos de Dificuldade**: Permite que o usuario escolha entre facil médio e dificil.
+- **Interação com o usuario**: Permite que o usuario tenha a possibilidade de acertar o numero gerado.
 
 **Como usar**
 1. Clone o repósitório ou baixe o código fonte
