@@ -29,7 +29,7 @@ dotnet run --project Calculadora.ConsoleApp
 
 6.Para executar o arquivo compilado, navegue até a pasta ./Adivinhação.ConsoleApp/bin/Release/net8.0/e execute o arquivo:
 ```
-Calculdora.ConsoleApp.exe
+Adivinhação.ConsoleApp.exe
 ```
 
 **Requisitos**
